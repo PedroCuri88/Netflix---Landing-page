@@ -1,4 +1,4 @@
-# Netflix landing page recreation
+# Netflix landing page
 >status: Completed ✅
 
 # About the project.
